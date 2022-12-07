@@ -1,0 +1,17 @@
+.body {
+  background-color: rgb(67, 91, 141);
+}
+
+.center-elements {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.top-margin {
+  margin-top: 100px;
+}
+
+.left-margin {
+  margin-left: 40px;
+}
