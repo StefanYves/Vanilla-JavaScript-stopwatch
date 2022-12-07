@@ -13,5 +13,13 @@
 }
 
 .left-margin {
-  margin-left: 40px;
+  margin-left: 50px;
+}
+
+.right-margin {
+  margin-right: 40px;
+}
+
+.font-size {
+  font-size: large;
 }
